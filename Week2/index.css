@@ -1,0 +1,22 @@
+
+body {
+    background-color: #fdfdbb;
+}
+div{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: #ff0000;
+}
+span{
+    color: #0000ff;
+}
+h5{
+    left: 50%;
+    transform: translate(-50%, 0);
+    position: absolute;
+    bottom: 0;
+}

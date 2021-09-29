@@ -1,0 +1,17 @@
+h1{
+    text-align: left;
+}
+table, th, td {
+    padding: 5px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    padding: 10px;
+    background-color: #259e3f;
+}
+td{
+    color: #ffffff;
+    background-color: black;
+    text-align: right;
+}
